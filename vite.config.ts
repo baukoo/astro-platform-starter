@@ -10,4 +10,3 @@ export default defineConfig({
     allowedHosts: ['devserver-preview--plastikaos.netlify.app']
   }
 })
-    
